@@ -2,3 +2,11 @@
 Data/test.csv
 Data/test_submission.csv
 Data/train.csv
+tensorboard/
+Data/Russian_state.xlsx
+Data/min_vae_loss.txt
+Data/scaler.pickle
+Data/train_data.pickle
+Data/train_parse1.csv
+Data/train_parse2.csv
+Data/train_parse3.csv
